@@ -1,0 +1,46 @@
+html{
+    background :rgb(109, 70, 145);
+}
+.maindiv{
+    text-align: center;
+    background-color: white;
+    margin-top: 11%;
+    margin-left:38%;
+    margin-right:38%;
+    padding-top :1em;
+    padding-bottom: 3em;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.maindiv h2{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#btnSubmit{
+    text-align: center;
+    padding:9px 100px;
+    border-radius: 20px;
+    background-color: rgb(39, 107, 184);
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.maindiv input[type='text']{
+    border-top : 0px;
+    border-left: 0px;
+    border-right:0px;
+    padding:1em 3.5em 1em 0em;
+}
+.a2{
+    color:  rgb(39, 107, 184);
+    
+}
+.a1{
+    color:grey
+}
+span{
+    font-weight: lighter;
+    color:grey
+}
